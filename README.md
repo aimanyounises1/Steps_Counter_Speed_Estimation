@@ -1,4 +1,5 @@
 # Cadence and Foot strike 
+## This code can be used to count excerises, like push ups etc..
 In this repo you will find the Cadence counter algorithms to estimate the number of steps per minute.
 We used two algorithms to count the number of steps.
 
