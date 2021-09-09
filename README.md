@@ -6,3 +6,4 @@ We used two algorithms to count the number of steps.
 ## The Pose Estimation + KNN 
 In this algorithm we trained the KNN model with small dataset (100 samples of left and right steps)
 We got good result compared to GT results.
+![Pose Estimation with KNN](https://github.com/aimanyounises1/Cadence_Counter/blob/c19d13dac8ba826bf3c97c2d551c385036022dcb/Pose%20Estimtion%20with%20KNN.png)
